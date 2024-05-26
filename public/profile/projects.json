@@ -1,0 +1,75 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/gym-haven.png",
+            "title": "Gym Haven",
+            "bodyText": "- Online storefront built using JavaScript & HTML/CSS\n -  Extensive REST API integration\n - MongoDB Database\n - Utilized OAuth 2.0, Stripe, OpenAI, EasyPost, Web3Forms APIs",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/Gym-Haven"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML/CSS",
+                "MongoDB",
+                "Third-party APIs"
+            ]
+        },
+        {
+            "image" : "images/projects/bm-sneakers.png",
+            "title": "BuyMe Sneakers",
+            "bodyText": "- Auction website (similar to Ebay) using Java (JSP)\n - MySQL Database \n - Features for customers (buyers/sellers), admins, and customer representatives \n - Ran on Apache Tomcat server through Eclipse IDE",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/BuyMe-Sneakers"
+                }
+            ],
+            "tags" : [
+                "Java (JSP)",
+                "MySQL",
+                "Apache Tomcat"
+            ]
+        },
+        {
+            "image" : "images/projects/ru-gyms.png",
+            "title": "RU Gyms Crowd Meter",
+            "bodyText": "- Python web app to calculate and display live crowd levels at on-campus fitness centers based on user-input\n - Deployed on a Linux server via an **AWS EC2** instance\n - Winner in health track out of 170 participants",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/RU-Gyms-Crowd-Meter"
+                },
+                {
+                    "text": "Devpost + Demo",
+                    "href": "https://devpost.com/software/ru-gyms-crowd-meter"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Streamlit",
+                "AWS EC2"
+            ]
+        },
+        {
+            "image" : "images/projects/ru-pizza.png",
+            "title": "Rutgers Pizza",
+            "bodyText": "- Interactive Android App to emulate a Pizzeria \n - Factory and Singleton design patterns \n - XML to customize seprate UIs for customers and the restaurant",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/Rutgers-Pizza"
+                }
+            ],
+            "tags" : [
+                "JavaFX",
+                "XML",
+                "Android",
+                "Factory",
+                "Singleton"
+            ]
+        }
+    ]
+}
