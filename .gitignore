@@ -1,2 +1,4 @@
 node_modules/
 *.pack
+node_modules/
+*.pack
