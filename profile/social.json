@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/nicholas-yim"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/nickyim"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:nicholasjyim@gmail.com"
+        }
+    ]
+}

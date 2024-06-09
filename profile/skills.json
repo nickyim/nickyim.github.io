@@ -1,0 +1,67 @@
+{
+    "intro": "I enjoy building software, incorporating and experimenting with new technologies.\nHere are some of the major languages, frameworks, and technologies I have worked with:",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "SQL"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML/CSS"
+                }
+        ]},
+        {
+            "title": "Frameworks",
+            "items" : [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/jasmine.png",
+                    "title": "Jasmine"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                }
+            ]
+    }
+]}
