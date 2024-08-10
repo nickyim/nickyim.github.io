@@ -1,6 +1,28 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/inshort.png",
+            "title": "InShort",
+            "bodyText": "- Personalized news curated from over 125 million online sources\n -  Automatic Python webscraping\n - RAG pipeline to train OpenAI model\n - Over 35 users waitlisted in first day",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/InShort"
+                }
+                {
+                    "text": "Preliminary Demo",
+                    "href": "https://www.youtube.com/watch?v=OXpXaji2wJI"
+                }
+            ],
+            "tags" : [
+                "Next.js",
+                "Python",
+                "Pinecone",
+                "OpenAI",
+                "LangChain"
+            ]
+        },
+        {
             "image" : "images/projects/gym-haven.png",
             "title": "Gym Haven",
             "bodyText": "- Online storefront built using JavaScript & HTML/CSS\n -  Extensive REST API integration\n - MongoDB Database\n - Utilized OAuth 2.0, Stripe, OpenAI, EasyPost, Web3Forms APIs",
