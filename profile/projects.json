@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/serenity-sphere.png",
             "title": "Serenity Sphere",
-            "bodyText": "- **Interactive chat** avenues focused on mental/emotional/physical health\n -  **Omnichannel** structure supporting 5 distinct **AI** chatbots and 1 live support option\n - **RAG** pipeline sourcing information from hand-picked **YouTube** videos\n - **PostgreSQL** database to enable complex querying for improved chat interactions",
+            "bodyText": "- **Interactive chat** avenues focused on holistic health\n -  **Omnichannel** structure supporting 5 distinct **AI** chatbots and 1 live support option\n - **RAG** pipeline sourcing information from hand-picked **YouTube** videos\n - **PostgreSQL** database to enable complex querying for improved chat capability",
             "links": [
                 {
                     "text": "GitHub",
@@ -25,7 +25,7 @@
         {
             "image" : "images/projects/inshort.png",
             "title": "InShort",
-            "bodyText": "- Personalized news curated from over **125 million** online sources\n -  Automatic Python **webscraping**\n - **RAG** pipeline to **train OpenAI** model\n - Over **35 users** waitlisted in first day",
+            "bodyText": "- Personalized news curated from over **125 million** online sources\n -  Automatic **Python webscraping**\n - **RAG** pipeline to **train OpenAI** model\n - Over **35 users** waitlisted in first day",
             "links": [
                 {
                     "text": "GitHub",
@@ -47,7 +47,7 @@
         {
             "image" : "images/projects/gym-haven.png",
             "title": "Gym Haven",
-            "bodyText": "- Online storefront built using **JavaScript** & HTML/CSS\n -  Extensive **REST API** integration\n - MongoDB database\n - Utilized OAuth 2.0, Stripe, OpenAI, EasyPost, Web3Forms APIs",
+            "bodyText": "- Online storefront built using **JavaScript** & HTML/CSS\n -  Extensive **REST API** integration\n - **MongoDB** database\n - Utilized OAuth 2.0, Stripe, OpenAI, EasyPost, Web3Forms APIs",
             "links": [
                 {
                     "text": "GitHub",
@@ -64,7 +64,7 @@
         {
             "image" : "images/projects/bm-sneakers.png",
             "title": "BuyMe Sneakers",
-            "bodyText": "- Auction website (similar to Ebay) using **Java** (JSP)\n - **MySQL** Database \n - Features for customers (buyers/sellers), admins, and customer representatives \n - Ran on Apache Tomcat server through Eclipse IDE",
+            "bodyText": "- Auction website using **Java** (JSP)\n - **MySQL** Database \n - Features for customers (buyers/sellers), admins, and customer representatives \n - Ran on Apache Tomcat server through Eclipse IDE",
             "links": [
                 {
                     "text": "GitHub",
@@ -100,7 +100,7 @@
         {
             "image" : "images/projects/ru-pizza.png",
             "title": "Rutgers Pizza",
-            "bodyText": "- Interactive **Android App** to emulate a Pizzeria \n - Factory and Singleton design patterns \n - XML to customize seprate UIs for customers and the restaurant",
+            "bodyText": "- Interactive **Android App** to emulate a Pizzeria \n - **Factory** and **Singleton** design patterns \n - XML to customize seprate UIs for customers and the restaurant",
             "links": [
                 {
                     "text": "GitHub",
