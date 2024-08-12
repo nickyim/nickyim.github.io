@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/serenity-sphere.png",
             "title": "Serenity Sphere",
-            "bodyText": "- **Interactive chat** avenues focused on holistic health\n -  **Omnichannel** structure supporting 5 distinct **AI** chatbots and 1 live support option\n - **RAG** pipeline sourcing information from hand-picked **YouTube** videos\n - **PostgreSQL** database to enable complex querying for improved chat capability",
+            "bodyText": "- **Interactive chat** avenues focused on holistic health\n -  **Omnichannel** structure supporting **5** distinct **AI chatbots** and 1 live support option\n - **RAG** pipeline sourcing information from **40+** hand-picked **YouTube videos**\n - **PostgreSQL** database to enable complex querying for improved chat capability",
             "links": [
                 {
                     "text": "GitHub",
