@@ -55,6 +55,10 @@
                     "title": "AWS"
                 },
                 {
+                    "icon": "images/skills/pinecone.png",
+                    "title": "Pinecone"
+                },
+                {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
                 },
