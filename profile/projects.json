@@ -1,6 +1,28 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/ghostlink.png",
+            "title": "GhostLink",
+            "bodyText": "- **Paid platform** for content creators to boost interaction and growth on **LinkedIn**\n - **AI-driven video-to-text workflow** for automating transcription and post creation\n - **AI model trained** on top LinkedIn posts with **50,000+ impressions** and **500+ reactions** to enhance engagement\n - **Collaborate** with creators (totaling **1.5M+ followers**) and refine through user feedback"
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nickyim/GhostLink"
+                },
+                {
+                    "text": "Live Link",
+                    "href": "https://ghostlink.app/"
+                }
+            ],
+            "tags" : [
+                "TypeScript (Next.js)",
+                "Flask",
+                "Amazon RDS",
+                "OpenAI API",
+                "Docker"
+            ]
+        },
+        {
             "image" : "images/projects/serenity-sphere.png",
             "title": "Serenity Sphere",
             "bodyText": "- **Interactive chat** avenues focused on holistic health\n -  **Omnichannel** structure supporting **5** distinct **AI chatbots** and 1 live support option\n - **RAG** pipeline sourcing information from **40+** hand-picked **YouTube videos**\n - **PostgreSQL** database to enable complex querying for improved chat capability",
