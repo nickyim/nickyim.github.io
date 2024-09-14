@@ -30,8 +30,12 @@
             "title": "Frameworks",
             "items" : [
                 {
+                    "icon": "images/skills/next.js.png",
+                    "title": "Next.js"
+                },
+                {
                     "icon": "images/skills/react.png",
-                    "title": "React"
+                    "title": "React.js"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
